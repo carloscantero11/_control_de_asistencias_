@@ -56,12 +56,26 @@ La aplicación desarrollada con **Electron + React** que permite:
 <br/>
 <br/>
 <img width="800" height="450" alt="Captura de pantalla 2025-08-14 155737" src="https://github.com/user-attachments/assets/461d17e3-5b8a-4813-b323-291f23d53599" />
+<br/>
+<br/>
 <img width="800" height="450" alt="Captura de pantalla 2025-08-14 155818" src="https://github.com/user-attachments/assets/e6f82e9a-1e37-4f14-b826-34d874c85d94" />
+<br/>
+<br/>
 <img width="800" height="450" alt="Captura de pantalla 2025-08-14 155825" src="https://github.com/user-attachments/assets/af2b237d-7fb4-4190-a7a1-1d1334174bc7" />
+<br/>
+<br/>
 <img width="800" height="450" alt="Captura de pantalla 2025-08-14 154725" src="https://github.com/user-attachments/assets/c8d7c4bf-87c7-4ec1-8660-e588e6e3a080" />
+<br/>
+<br/>
 <img width="800" height="450" alt="Captura de pantalla 2025-08-14 154610" src="https://github.com/user-attachments/assets/2754a5c0-f434-4047-8389-cdd64dc5beaa" />
+<br/>
+<br/>
 <img width="800" height="450" alt="Captura de pantalla 2025-08-14 155835" src="https://github.com/user-attachments/assets/0a40fcd8-60a2-4a7e-8ebf-09ce811548cc" />
+<br/>
+<br/>
 <img width="800" height="450" alt="Captura de pantalla 2025-08-14 154945" src="https://github.com/user-attachments/assets/7fdb94af-9c0f-4502-8c96-2d2fc1eb839a" />
+<br/>
+<br/>
 </div>
 
 ## ❗Problemas
