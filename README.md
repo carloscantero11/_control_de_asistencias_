@@ -45,7 +45,7 @@ La aplicación desarrollada con **Electron + React** que permite:
 
 >[!IMPORTANT]
 > **Este repositorio solo contiene la documentación.**  
-> **El código fuente es privado.** [Contáctame](carlitos.mcs18@gmail.com) para más información.
+> **El código fuente es privado.** [Contáctame](https://karmadev.vercel.app/) para más información.
 
 <br/>
 
