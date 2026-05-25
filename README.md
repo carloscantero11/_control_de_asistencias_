@@ -52,30 +52,31 @@ La aplicación desarrollada con **Electron + React** que permite:
 ## 🖼️ Imágenes 
 
 <div align="center">
-<img width="800"  height="450" alt="Captura de pantalla 2025-08-14 155726" src="https://github.com/user-attachments/assets/d62d2f6c-1d11-445b-9938-dd73051e9e8d" /> 
+<img width="800"  height="450" alt="Captura de pantalla 2025-08-14 155726" src="https://github.com/user-attachments/assets/2bf69374-2d4f-4849-8a1a-0c507e9f661d" /> 
 <br/>
 <br/>
-<img width="800" height="450" alt="Captura de pantalla 2025-08-14 155737" src="https://github.com/user-attachments/assets/461d17e3-5b8a-4813-b323-291f23d53599" />
+<img width="800" height="450" alt="Captura de pantalla 2025-08-14 155737" src="https://github.com/user-attachments/assets/5ede9086-ad72-423e-b205-7c9f39989cc1" />
 <br/>
 <br/>
-<img width="800" height="450" alt="Captura de pantalla 2025-08-14 155818" src="https://github.com/user-attachments/assets/e6f82e9a-1e37-4f14-b826-34d874c85d94" />
+<img width="800" height="450" alt="Captura de pantalla 2025-08-14 155818" src="https://github.com/user-attachments/assets/5c067c04-c2e1-4b08-9048-e7e9ff010da7" />
 <br/>
 <br/>
-<img width="800" height="450" alt="Captura de pantalla 2025-08-14 155825" src="https://github.com/user-attachments/assets/af2b237d-7fb4-4190-a7a1-1d1334174bc7" />
+<img width="800" height="450" alt="Captura de pantalla 2025-08-14 155825" src="https://github.com/user-attachments/assets/94a2b736-f643-47ef-adec-9726d6dc2b88" />
 <br/>
 <br/>
-<img width="800" height="450" alt="Captura de pantalla 2025-08-14 154725" src="https://github.com/user-attachments/assets/c8d7c4bf-87c7-4ec1-8660-e588e6e3a080" />
+<img width="800" height="450" alt="Captura de pantalla 2025-08-14 154725" src="https://github.com/user-attachments/assets/e386738d-7bd8-4c3b-bf9e-d52139f25b49" />
 <br/>
 <br/>
-<img width="800" height="450" alt="Captura de pantalla 2025-08-14 154610" src="https://github.com/user-attachments/assets/2754a5c0-f434-4047-8389-cdd64dc5beaa" />
+<img width="800" height="450" alt="Captura de pantalla 2025-08-14 154610" src="https://github.com/user-attachments/assets/e7c064af-7575-44cc-8c2e-2f8417425e77" />
 <br/>
 <br/>
-<img width="800" height="450" alt="Captura de pantalla 2025-08-14 155835" src="https://github.com/user-attachments/assets/0a40fcd8-60a2-4a7e-8ebf-09ce811548cc" />
+<img width="800" height="450" alt="Captura de pantalla 2025-08-14 155835" src="https://github.com/user-attachments/assets/9c2fcf70-f512-4756-bff8-ab2d803779fd" />
 <br/>
 <br/>
-<img width="800" height="450" alt="Captura de pantalla 2025-08-14 154945" src="https://github.com/user-attachments/assets/7fdb94af-9c0f-4502-8c96-2d2fc1eb839a" />
+<img width="800" height="450" alt="Captura de pantalla 2025-08-14 154945" src="https://github.com/user-attachments/assets/8c07db4d-6dd2-46b2-bd0f-94e54ee3f0de" />
 <br/>
 <br/>
+
 </div>
 
 ## ❗Problemas
